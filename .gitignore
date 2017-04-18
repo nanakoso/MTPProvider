@@ -1,0 +1,6 @@
+*.bak
+*~
+*.swp
+/obj
+/bin
+*.csproj.user
